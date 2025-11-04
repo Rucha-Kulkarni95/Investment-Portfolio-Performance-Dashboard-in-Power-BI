@@ -1,5 +1,7 @@
 # 📊 Investment Portfolio Performance Dashboard (Power BI)
 
+[<img src="InvestmentPortFolio.png">](https://app.powerbi.com/view?r=eyJrIjoiYmU1ODEyYTEtZmIxZC00ODRjLTg3ZGUtZDQzZmVhNTUxNmU2IiwidCI6ImMxNmQyZDdmLThmYTQtNDliOC1iMmYwLTcwMzM5Y2I0N2RhMiJ9)
+
 This project showcases an **Investment Portfolio Dashboard** built in **Power BI**, designed to track **returns, risk, and diversification** across different asset classes.
 
 ---
@@ -54,8 +56,3 @@ A mock dataset is included in `data/Investment_Portfolio_Data.xlsx` with fields:
 
 # Tags
 `Power BI` `Finance` `Dashboard` `Portfolio` `Data Analytics` `Visualization`
-
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYmU1ODEyYTEtZmIxZC00ODRjLTg3ZGUtZDQzZmVhNTUxNmU2IiwidCI6ImMxNmQyZDdmLThmYTQtNDliOC1iMmYwLTcwMzM5Y2I0N2RhMiJ9" target="_blank">
-  <img src="/workspaces/Investment-Portfolio-Performance-Dashboard-in-Power-BI/InvestmentPortFolio.png" />
- </a>
