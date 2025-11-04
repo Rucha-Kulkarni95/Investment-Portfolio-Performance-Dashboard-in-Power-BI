@@ -1,4 +1,7 @@
-# 📊 Investment Portfolio Performance Dashboard (Power BI)
+# Investment Portfolio Performance Dashboard (Power BI)
+
+
+## Click on the thumbnail below to interact with dashboard 
 
 [<img src="InvestmentPortFolio.png">](https://app.powerbi.com/view?r=eyJrIjoiYmU1ODEyYTEtZmIxZC00ODRjLTg3ZGUtZDQzZmVhNTUxNmU2IiwidCI6ImMxNmQyZDdmLThmYTQtNDliOC1iMmYwLTcwMzM5Y2I0N2RhMiJ9)
 
